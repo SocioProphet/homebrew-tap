@@ -1,8 +1,8 @@
 cask "noetica" do
-  version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.4.6"
+  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
 
-  url "https://github.com/SocioProphet/Noetica/releases/download/v#{version}/Noetica_#{version}_x64.dmg"
+  url "https://github.com/SocioProphet/Noetica/releases/download/untagged-4a3a5f9b6cbf3c4ade43/Noetica_0.1.0_aarch64.dmg"
   name "Noetica"
   desc "SourceOS-native AI operating workspace"
   homepage "https://github.com/SocioProphet/Noetica"
