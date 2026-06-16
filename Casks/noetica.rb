@@ -8,7 +8,7 @@ cask "noetica" do
   homepage "https://github.com/SocioProphet/Noetica"
 
   auto_updates false
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Noetica.app"
 
