@@ -1,8 +1,8 @@
 cask "noetica" do
-  version "0.4.23"
-  sha256 "324d90778a42971a3b80d4998419ba39b6f4dcb4da61b1bd7fd1cd52e3840900"
+  version "0.4.24"
+  sha256 "d8c8c6a46dacd341eb1c0ec60a8c87865b11227aedd49c5afe4825473a0d8f2a"
 
-  url "https://github.com/SocioProphet/Noetica/releases/download/v0.4.23/Noetica_0.4.23_universal.dmg"
+  url "https://github.com/SocioProphet/Noetica/releases/download/v0.4.24/Noetica_0.4.24_universal.dmg"
   # sha256 and url are updated automatically by the update-cask CI job after each tagged release.
   name "Noetica"
   desc "Local-first AI workstation with knowledge graph, attention economics, and A2A zero-trust"
