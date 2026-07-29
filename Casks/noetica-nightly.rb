@@ -1,8 +1,8 @@
 cask "noetica-nightly" do
-  version "0.4.24-nightly.20260728"
-  sha256 "c514e72109c85f34f56126457cabd4617b5efe734bcf2566f2fccae760d91aa9"
+  version "0.4.24-nightly.20260729"
+  sha256 "a00c4668a2c24ea90b3561d9dc0829c7d5fe1f14211ac6efab24b6a45b4f61eb"
 
-  url "https://github.com/SocioProphet/Noetica/releases/download/v0.4.24-nightly.20260728/Noetica_0.4.24-nightly.20260728_universal.dmg"
+  url "https://github.com/SocioProphet/Noetica/releases/download/v0.4.24-nightly.20260729/Noetica_0.4.24-nightly.20260729_universal.dmg"
   # version, sha256, and url are updated automatically by the update-cask CI job
   # after each nightly release. Run `brew upgrade --cask noetica-nightly` each morning.
   name "Noetica Nightly"
